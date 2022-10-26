@@ -2,7 +2,7 @@
 
 ```sh
 ~/.xsessionrc
-#Should to comment third line
+#Should to comment this third line
 pulseaudio --start => #pulseaudio --start
 ```
 
